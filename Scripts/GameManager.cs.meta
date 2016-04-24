@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4a43af91f44c01b458e570fcd54b6f0f
+timeCreated: 1450119388
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - drunk: {instanceID: 0}
+  - target: {instanceID: 0}
+  - sober: {instanceID: 0}
+  - drunkPrefab: {fileID: 164324, guid: 613d858f720e1694fbc2d337d9d4ef85, type: 2}
+  - soberPrefab: {fileID: 135080, guid: a3cfdff9c1e2e8e4faccf1b5798c7011, type: 2}
+  - targetPrefab: {fileID: 127566, guid: 15e3e295ffbbece4eb8791cd35fbd3de, type: 2}
+  - obstaclePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
